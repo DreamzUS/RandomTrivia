@@ -1,0 +1,7 @@
+earth_Weight = float(input('What is your weight? '))
+user_Age = int(input('How old are you? '))
+sec_Age = round(user_Age * 31536000, 1)
+moon_Weight = round(earth_Weight * 1.622 / 9.81 , 2)
+
+print('You would weigh ' + str(moon_Weight) + ' pounds on the moon!')
+print('You are ' + str(sec_Age) + ' seconds old! Go buy a cane!')
