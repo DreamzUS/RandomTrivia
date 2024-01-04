@@ -1,2 +1,2 @@
-# RandomTrivia
-A simple Python program that asks the user for their age and weight and prints back to them their age in seconds and weight on the moon.
+# Random Trivia
+A simple Python program I coded for a college course that asks the user for their age and weight and prints back to them a few interesting facts.
